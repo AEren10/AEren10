@@ -1,61 +1,57 @@
-<h1 align="center">Ahmet Eren Şiranlı</h1>
-<h3 align="center">Mobile Software Developer · React Native · Istanbul</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://ahmeterensiranli.com">🌐 Portfolio</a> ·
-  <a href="https://linkedin.com/in/ahmetşiranlı">💼 LinkedIn</a> ·
-  <a href="mailto:ahmet.hi@hotmail.com">📬 Email</a>
-</p>
+# Ahmet Eren Şiranlı
+### Mobile Software Developer · React Native · Istanbul
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ahmeterensiranli.com-6366f1?style=for-the-badge)](https://ahmeterensiranli.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmetşiranlı)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmet.hi@hotmail.com)
+
+</div>
 
 ---
 
-### 👋 About Me
+### 👋 About
 
-Mobile developer based in Istanbul, specializing in **React Native** — from zero to App Store launch.  
-I own the full lifecycle: architecture, state management, animations, API integrations, store publishing.  
-Beyond mobile, I build AI-integrated systems with the **Claude API** and automation workflows with **n8n** and **Python**.
+Mobile developer based in Istanbul, specializing in **React Native** — from zero to App Store launch.
+I own the full lifecycle: architecture, state management, animations, API integrations, store publishing.
+Beyond mobile, I build AI systems with the **Claude API** and automation pipelines with **n8n** & **Python**.
 
 > *My standard isn't "make it work" — it's make it right, and make it last under real-world pressure.*
 
 ---
 
-### 🚀 Core Stack
+### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,redux,expo,supabase,py,git,figma,vite,nodejs,html,css&perline=7)](https://skillicons.dev)
+
+</div>
 
 ---
 
-### 📌 Featured Projects
+### 📊 Stats
 
-| Project | Stack | Description |
-|--------|-------|-------------|
-| [PartyAnimal](https://github.com/AEren10/PartyAnimal) | React Native · Redux Toolkit · Reanimated 2 | 10+ screen mobile game, 60fps animations, solo end-to-end |
-| [xLab](https://github.com/AEren10/xLab) | React · X API · TypeScript | Algorithmic tweet recommendation engine |
-| [Nexus](https://github.com/AEren10/Nexus) | React · Vite · Claude API | 4 parallel AI agents for multi-dimensional idea analysis |
-| [ListarMaster](https://github.com/AEren10/ListarMaster-) | React Native · Supabase · PostgreSQL | Real-time business discovery app with RLS auth |
-| [TourGuide](https://github.com/AEren10/TourGuide-) | React Native · Google Places API | Map-based travel app, 20+ categories, offline-first |
-| [FlashcardsPro](https://github.com/AEren10/FlashcardProject) | React Native · Supabase · Reanimated 2 | Spaced repetition flashcard platform, multi-device sync |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AEren10&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEren10&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
+</div>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AEren10&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEren10&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AEren10&theme=tokyonight&hide_border=true" height="170"/>
+</div>
 
 ---
 
-<p align="center">📍 Istanbul · Open to Full-time & Freelance · Hybrid / Remote</p>
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AEren10&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</div>
+
+---
+
+<div align="center">
+  📍 Istanbul &nbsp;·&nbsp; Open to Full-time & Freelance &nbsp;·&nbsp; Hybrid / Remote
+</div>
